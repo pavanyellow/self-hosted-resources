@@ -67,7 +67,7 @@ streaming_ner = false # or true
 ### However, this may cause a signficant decrease in number of concurrent
 ### streams supported by a single GPU. Please contact your Deepgram Account
 ### representative for more details.
-# step = 1.0
+step = 0.4
 
 
 ### Engine will automatically enable half precision operations if your GPU supports
